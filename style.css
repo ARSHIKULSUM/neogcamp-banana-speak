@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(213, 213, 179);
+}
+
+.heading{
+    
+    margin-left: 600px;
+}
+textarea{
+    width: 1000px;
+    height: 200px;
+    margin: 100px 250px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 30px;
+
+}
+
+#output{
+
+
+    border: 2px solid black;
+    margin: 30px;
+    width: 1000px;
+    height: 250px;
+    
+    
+
+
+
+}
